@@ -1,2 +1,9 @@
 node_modules/
 .idea
+
+build/
+
+.env
+
+npm-debug.log*
+
